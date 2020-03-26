@@ -7,7 +7,7 @@ class Config(object):
 
     SECRET_KEY="XHSOI*Y9dfs9cshd9"
     #数据库
-    SQLALCHEMY_DATABASE_URI="mysql://root:mysql@localhost:3306/aijia"
+    SQLALCHEMY_DATABASE_URI="mysql://root:root@localhost:3306/aijia1"
     SQLALCHEMY_TRACK_MODIFICATIONS=True
 
     #redis
